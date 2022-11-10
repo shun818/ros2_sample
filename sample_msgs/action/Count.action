@@ -1,0 +1,5 @@
+int32 max_count
+---
+bool result
+---
+int32 current_count
